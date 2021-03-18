@@ -1,0 +1,6 @@
+[submodule "scholarship-frontend"]
+	path = scholarship-frontend
+	url = https://github.com/IVBO-07-19/scholarship-frontend.git
+[submodule "scholarship-culture-part"]
+	path = scholarship-culture-part
+	url = https://github.com/IVBO-07-19/scholarship-culture-part.git
